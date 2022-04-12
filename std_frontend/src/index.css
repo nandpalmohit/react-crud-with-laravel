@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body,
+.Sans,
+input {
+  font-family: "Inter", sans-serif !important;
+}
+
+input {
+  font-size: 14px !important;
+  font-weight: 500 !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.navbar {
+  width: auto !important;
+}
+
+.spinner {
+  animation: myspinner 5s infinite;
+}
+
+@keyframes myspinner {
+  0% {
+    color: red;
+    transform: rotate(0deg);
+  }
+  25% {
+    color: blue;
+    transform: rotate(90deg);
+  }
+  50% {
+    color: green;
+    transform: rotate(180deg);
+  }
+  75% {
+    color: darkviolet;
+    transform: rotate(270deg);
+  }
+  100% {
+    color: red;
+    transform: rotate(360deg);
+  }
+}
+
+.badge_std {
+  position: absolute;
+  top: -2px;
+  background-color: var(--bc-navy);
+  width: 50px;
+  padding: 6px 0px;
+  border-radius: 24px;
+  font-size: 10px;
+  font-weight: 900;
+  height: 24px;
+  right: -10px;
+  color: white;
+}

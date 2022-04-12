@@ -41,7 +41,7 @@ Open `std_frontend` and run `npm start` which runs the project on ``3000`` port.
 ![Home Page](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/homepage.png?token=GHSAT0AAAAAABTPJ62GE3I7QWT5SW2JAB2KYSVIUCA)
 
 #### Add New Student
-![Add New student Page](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/add_new_student.png?token=GHSAT0AAAAAABTPJ62HEXVA7LVNO23BN6AOYSVIRUA)
+![Add New student](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/add_new_student.png?token=GHSAT0AAAAAABTPJ62GHIVRDI2Z6BO5GBGKYSVIY4Q)
 
 #### View Student
 ![View student page](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/view_student.png?token=GHSAT0AAAAAABTPJ62HABBQX3YDCG2RKGI6YSVISOA)

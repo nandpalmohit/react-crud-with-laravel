@@ -44,10 +44,10 @@ Open `std_frontend` and run `npm start` which runs the project on ``3000`` port.
 ![Add New student](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/add_new_student.png?token=GHSAT0AAAAAABTPJ62GHIVRDI2Z6BO5GBGKYSVIY4Q)
 
 #### View Student
-![View student page](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/view_student.png?token=GHSAT0AAAAAABTPJ62HABBQX3YDCG2RKGI6YSVISOA)
+![View student page](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/view_student.png?token=GHSAT0AAAAAABTPJ62GON67Z7IZ4RKPVXW2YSVI2UA)
 
 ### Edit Student
-![Edit student page](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/edit_student.png?token=GHSAT0AAAAAABTPJ62GOPP5TOQDIMYF4PL4YSVIS4Q)
+![Edit student page](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/edit_student.png?token=GHSAT0AAAAAABTPJ62HOPJDMX4WMFHHQP7KYSVI2IA)
 
 #### Home Page After Insert new Records
-![Home Page](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/home_page.png?token=GHSAT0AAAAAABTPJ62G3LZCUNRMII3SVQTKYSVITDQ)
+![Home Page](https://raw.githubusercontent.com/nandpalmohit/react-crud-with-laravel/main/screenshots/home_page.png?token=GHSAT0AAAAAABTPJ62GYRNLUJV3ID7526ROYSVI27A)
